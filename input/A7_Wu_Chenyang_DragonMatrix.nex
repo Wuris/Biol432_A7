@@ -1,6 +1,6 @@
 #NEXUS
 begin data;
-dimensions ntax=77 nchar=78;
+dimensions ntax=80 nchar=78;
 format datatype=binary interleave=no gap=?;
 matrix
 0.1FishXXX 000000000000000000000000000000000000000000000000000000000000000000000000000000
